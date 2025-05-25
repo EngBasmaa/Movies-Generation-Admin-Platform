@@ -1,0 +1,34 @@
+.fullWidth {
+    width: 100% !important;
+    margin: 0 !important
+}
+
+.container {
+    max-width: 100vw !important;
+    padding: 0 !important;
+    height: 90vh !important
+}
+
+.heroTitle2 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 2rem 0;
+}
+
+.heroSubtitle2 {
+    color: grey !important;
+    font-size: 1.2rem;
+    margin: 2rem 0;
+    opacity: 0.8;
+    line-height: 2rem;
+    width: 65%;
+}
+
+.heroSign2 {
+    font-family: 'secondary font';
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}

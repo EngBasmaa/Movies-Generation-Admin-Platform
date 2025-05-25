@@ -1,0 +1,68 @@
+.carouselHeight {
+    height: 120vh !important;
+}
+
+.heroCaption {
+    position: absolute;
+    bottom: 30% !important;
+    left: 5rem !important
+}
+
+.hero-section .imageSection {
+    padding: 2rem;
+    text-align: center;
+    height: auto;
+}
+
+.hero-section .imageGrid {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    height: auto;
+    flex-wrap: nowrap;
+}
+
+.hero-section .sectionImage {
+    display: inline-block;
+    width: 150px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 8px;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.heroSign {
+    font-family: 'secondary font';
+    font-size: 1.5rem;
+    color: #f8961e;
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.heroTitle {
+    color: white !important;
+    font-size: 6rem;
+    font-weight: bold;
+    margin: 2rem 0;
+    width: 60%
+}
+
+.heroSubtitle {
+    color: white !important;
+    font-size: 1.2rem;
+    margin: 2rem 0;
+    opacity: 0.8;
+    line-height: 2rem;
+    width: 65%;
+}
+
+.moreInfoButton {
+    padding: 1rem 3rem !important;
+    border: none !important;
+    margin-right: 2rem
+}

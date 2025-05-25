@@ -1,0 +1,43 @@
+.movieTable th,
+.movieTable td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.movieTable td {
+    font-size: 14px;
+}
+
+.movieTable th {
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.movieTable .btn-info {
+    background-color: #f8961e;
+    border: none;
+}
+
+.movieTable .btn-info:hover {
+    background-color: #d9831c;
+}
+
+.movieTable .table-dark {
+    background-color: #212121;
+}
+
+.viewBtn {
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.card {
+    border: none;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}

@@ -1,0 +1,49 @@
+/* Light Theme Styles */
+.light-theme {
+    --bg-color: white;
+    --text-color: black;
+    --primary-color: #f8961e;
+    --navbar-bg-color: transparent;
+    --navbar-text-color: white;
+    --navbar-scrolled-bg-color: rgba(248, 150, 30, 0.4);
+    --delete-btn-color: #e98305;
+}
+
+/* Dark Theme Styles */
+.dark-theme {
+    --bg-color: #121212;
+    --text-color: white;
+    --primary-color: #f8961e;
+    --navbar-bg-color: #1a1a1a;
+    --navbar-text-color: white;
+    --navbar-scrolled-bg-color: rgba(51, 51, 51, 0.8);
+    --delete-btn-color: #dc3545;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+html body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    /* background-color: rgb(232, 212, 190); */
+    background: #0F2027;
+    background-image: linear-gradient(to right, #f0cf9b, #407587, #f0cf9b)
+}
+
+.form-control {
+    width: 40% !important;
+    margin: 0 0.5rem;
+    margin: auto
+}
+
+@font-face {
+    font-family: 'secondary font';
+    src: local('Permanent Marker'),
+        url('./assets/fonts/PermanentMarker-Regular.ttf') format('truetype');
+    font-weight: bold;
+}

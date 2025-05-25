@@ -1,0 +1,51 @@
+/* Custom Form Styling for AddNewMovie */
+.movieFormCard {
+    background-color: #4a4a4a;
+    color: #fff;
+    border-radius: 12px;
+    max-width: 800px;
+    margin: auto;
+    border: 1px solid #444;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    /* Soft shadow around the card */
+    padding: 30px;
+}
+
+/* Label Styling */
+.label {
+    color: #f8961e;
+    font-weight: 500;
+}
+
+/* Input Styling */
+.input {
+    background-color: #2e2e2e;
+    color: white;
+    border: 1px solid #444;
+}
+
+.input:focus {
+    border-color: #f8961e;
+    box-shadow: 0 0 0 0.2rem rgba(248, 150, 30, 0.4);
+}
+
+/* Button Styling */
+button[type="submit"] {
+    background-color: #f8961e;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+button[type="submit"]:hover {
+    background-color: #e67e00;
+}
+
+/* File Upload Image Preview Styling */
+.image-preview {
+    max-width: 200px;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}

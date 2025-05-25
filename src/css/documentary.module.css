@@ -1,0 +1,84 @@
+.heroContainer {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.documentayImages {
+    margin-bottom: 2rem !important
+}
+
+.heroImage {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* Ensure the image covers the container */
+}
+
+.heroOverlay {
+    position: absolute;
+    bottom: 3rem;
+    left: 2rem;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    padding: 2rem;
+}
+
+.heroOverlay .container {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+    padding: 2rem;
+    margin-bottom: 5rem;
+}
+
+.heroSign2 {
+    font-family: 'secondary font';
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.heroTitle2 {
+    color: white !important;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 2rem 0;
+}
+
+.heroSubtitle2 {
+    color: grey !important;
+    font-size: 1.2rem;
+    margin: 2rem 0;
+    opacity: 0.8;
+    line-height: 2rem;
+    width: 65%;
+}
+
+.moreInfoButton {
+    background-color: var(--primary-color);
+    margin-right: 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 1rem 3rem !important
+}
+
+.watchTrailerButton {
+    background-color: var(--primary-color) !important;
+    color: white !important;
+    border: none !important;
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+    padding: 1rem 3rem !important
+}
+
+.watchTrailerButton svg {
+    margin-right: 0.5rem;
+}

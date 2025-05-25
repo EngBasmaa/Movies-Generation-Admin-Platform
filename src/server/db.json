@@ -1,0 +1,290 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "Inception",
+      "duration": "2h 28m",
+      "premier": "2010-07-16",
+      "rating": 8.8,
+      "category": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "director": "Christopher Nolan",
+      "writer": "Christopher Nolan",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+      ],
+      "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea."
+    },
+    {
+      "id": "4",
+      "name": "The Dark Knight",
+      "duration": "2h 32m",
+      "premier": "2008-07-18",
+      "rating": 9,
+      "category": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "writer": "Jonathan Nolan",
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "description": "Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "id": "6",
+      "name": "Fight Club",
+      "duration": "2h 19m",
+      "premier": "1999-10-15",
+      "rating": 8.8,
+      "category": [
+        "Drama"
+      ],
+      "director": "David Fincher",
+      "writer": "Chuck Palahniuk",
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Helena Bonham Carter"
+      ],
+      "description": "An insomniac office worker forms an underground fight club that evolves into something much more."
+    },
+    {
+      "id": "7",
+      "name": "Forrest Gump",
+      "duration": "2h 22m",
+      "premier": "1994-07-06",
+      "rating": 8.8,
+      "category": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Robert Zemeckis",
+      "writer": "Winston Groom",
+      "actors": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+      ],
+      "description": "The story of Forrest Gump, a slow-witted but kind-hearted man from Alabama."
+    },
+    {
+      "id": "8",
+      "name": "The Matrix",
+      "duration": "2h 16m",
+      "premier": "1999-03-31",
+      "rating": 8.7,
+      "category": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "director": "Lana Wachowski",
+      "writer": "Lilly Wachowski",
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ],
+      "description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers."
+    },
+    {
+      "id": "9",
+      "name": "Gladiator",
+      "duration": "2h 35m",
+      "premier": "2000-05-05",
+      "rating": 8.5,
+      "category": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "director": "Ridley Scott",
+      "writer": "David Franzoni",
+      "actors": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+      ],
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family."
+    },
+    {
+      "id": "10",
+      "name": "The Lion King",
+      "duration": "1h 28m",
+      "premier": "1994-06-24",
+      "rating": 8.5,
+      "category": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "director": "Roger Allers",
+      "writer": "Irene Mecchi",
+      "actors": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones"
+      ],
+      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+    },
+    {
+      "id": "11",
+      "name": "The Godfather",
+      "duration": "2h 55m",
+      "premier": "1972-03-24",
+      "rating": 9.2,
+      "category": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Francis Ford Coppola",
+      "writer": "Mario Puzo",
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ],
+      "description": "An organized crime dynasty's aging patriarch transfers control to his reluctant son."
+    },
+    {
+      "id": "12",
+      "name": "The Godfather: Part II",
+      "duration": "3h 22m",
+      "premier": "1974-12-20",
+      "rating": 9,
+      "category": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Francis Ford Coppola",
+      "writer": "Mario Puzo",
+      "actors": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall"
+      ],
+      "description": "The early life and career of Vito Corleone is portrayed, while his son expands and tightens his grip on the family crime syndicate."
+    },
+    {
+      "id": "13",
+      "name": "The Silence of the Lambs",
+      "duration": "1h 58m",
+      "premier": "1991-02-14",
+      "rating": 8.6,
+      "category": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Jonathan Demme",
+      "writer": "Thomas Harris",
+      "actors": [
+        "Jodie Foster",
+        "Anthony Hopkins"
+      ],
+      "description": "A young F.B.I. cadet must receive the help of an imprisoned and manipulative killer to catch another serial killer."
+    },
+    {
+      "id": "14",
+      "name": "Saving Private Ryan",
+      "duration": "2h 49m",
+      "premier": "1998-07-24",
+      "rating": 8.6,
+      "category": [
+        "Drama",
+        "War"
+      ],
+      "director": "Steven Spielberg",
+      "writer": "Robert Rodat",
+      "actors": [
+        "Tom Hanks",
+        "Matt Damon"
+      ],
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper."
+    },
+    {
+      "id": "15",
+      "name": "Schindler's List",
+      "duration": "3h 15m",
+      "premier": "1993-12-15",
+      "rating": 9,
+      "category": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "director": "Steven Spielberg",
+      "writer": "Thomas Keneally",
+      "actors": [
+        "Liam Neeson",
+        "Ralph Fiennes"
+      ],
+      "description": "In German-occupied Poland, a businessman becomes concerned for his Jewish workforce."
+    },
+    {
+      "id": "16",
+      "name": "Whiplash",
+      "duration": "1h 47m",
+      "premier": "2014-10-10",
+      "rating": 8.5,
+      "category": [
+        "Drama",
+        "Music"
+      ],
+      "director": "Damien Chazelle",
+      "writer": "Damien Chazelle",
+      "actors": [
+        "Miles Teller",
+        "J.K. Simmons"
+      ],
+      "description": "A promising young drummer enrolls at a cut-throat music conservatory."
+    },
+    {
+      "id": "17",
+      "name": "Parasite",
+      "duration": "2h 12m",
+      "premier": "2019-05-30",
+      "rating": 8.6,
+      "category": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Bong Joon Ho",
+      "writer": "Bong Joon Ho",
+      "actors": [
+        "Song Kang-ho",
+        "Lee Sun-kyun"
+      ],
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy and destitute."
+    },
+    {
+      "id": "18",
+      "name": "Joker",
+      "duration": "2h 2m",
+      "premier": "2019-10-04",
+      "rating": 8.4,
+      "category": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Todd Phillips",
+      "writer": "Todd Phillips",
+      "actors": [
+        "Joaquin Phoenix",
+        "Robert De Niro"
+      ],
+      "description": "In Gotham City, a mentally troubled comedian embarks on a downward spiral of social revolution and bloody crime."
+    }
+  ]
+}
