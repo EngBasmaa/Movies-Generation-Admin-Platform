@@ -5,7 +5,7 @@ import { MoviesDashboardPage } from "./MoviesDashboardPage";
 import { NotFound } from "./NotFound";
 import { MovieDetails } from "./MovieDetails";
 import { MovieForm } from "./MovieForm";
-import { Counter } from "./counter";
+import { Counter } from "./Counter";
 
 export {
   LandingHomePage,
